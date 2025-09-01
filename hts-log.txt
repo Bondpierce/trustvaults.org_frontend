@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Aug 2025 22:55:44 at https://traderobotltd.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://traderobotltd.com/ -O1 "C:\My Web Sites\Traderbot" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:56:37	Error: 	"Not Found" (404) at link https://traderobotltd.com/“https://www.smartsupp.com” (from https://traderobotltd.com/)
+22:57:00	Error: 	"Not Found" (404) at link https://traderobotltd.com/styles/setting2.js?v=56 (from https://traderobotltd.com/)
+22:57:09	Error: 	"Not Found" (404) at link https://traderobotltd.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://traderobotltd.com/)
+22:57:10	Error: 	"Not Found" (404) at link https://traderobotltd.com/files.coinmarketcap.com/static/widget/currency.js (from https://traderobotltd.com/?a=stat)
+22:57:10	Error: 	"Not Found" (404) at link https://traderobotltd.com/cdn-cgi/l/email-protection (from https://traderobotltd.com/?a=support)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 102 links scanned, 96 files written (12982445 bytes overall) [11122178 bytes received at 129327 bytes/sec], 2641213 bytes transferred using HTTP compression in 31 files, ratio 27%, 4.8 requests per connection
+(5 errors, 0 warnings, 0 messages)
